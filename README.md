@@ -31,4 +31,4 @@ python -m pip install -r requirements-prework.txt
 
 I would use a Jupyter notebook when I want to explore data step by step and see outputs immediately. It is useful for testing ideas and visualizing results interactively.
 
-I would use a Python script when I want to run the code as a complete program from the terminal. Scripts are better for automation and production-style execution.
+I would use a Python script when I want to run the code as a complete program from the terminal. Scripts are better for automation and production-style execution.PR-04 evidence
